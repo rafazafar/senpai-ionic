@@ -1,0 +1,7 @@
+{
+  "name": "senpai",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
